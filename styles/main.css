@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Readex+Pro:wght@300;400;500;600;700;800;900&display=swap");
+* {font-family: 'Readex Pro'}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+a:hover {
+    color: rgb(202, 6, 241);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
